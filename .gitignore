@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# Yarn / Node install artifacts
+node_modules/
+.pnp.*
+.yarn/*
+!.yarn/patches/
+!.yarn/plugins/
+!.yarn/releases/
+!.yarn/sdks/
+!.yarn/versions/
+
+# Allure reports
+reports/*
+!reports/allure-results/
+reports/allure-results/.gitkeep
+!reports/allure-report/
+reports/allure-report/.gitkeep

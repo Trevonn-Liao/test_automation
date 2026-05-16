@@ -1,0 +1,7 @@
+{
+  "name": "test_automation",
+  "packageManager": "yarn@4.6.0",
+  "devDependencies": {
+    "allure-commandline": "^2.41.0"
+  }
+}
